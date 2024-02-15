@@ -27,4 +27,6 @@ git clone https://github.com/asadasif01/smart-cart.git
 
 - [Usama Basharat](https://github.com/usamabasharat123/)
 - [Subktgeen Babar](https://github.com/byteCoder41)
+- [Noor-Ul-Ain](https://github.com/Noor508)
+- [Ramisha Rauf](https://github.com/ramisha-rauf)
 
